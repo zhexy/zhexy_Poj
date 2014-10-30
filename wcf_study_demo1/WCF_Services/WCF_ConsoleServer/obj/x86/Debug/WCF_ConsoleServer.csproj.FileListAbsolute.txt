@@ -1,0 +1,10 @@
+D:\Codes\My Codes\Work\wcf_study_demo1\WCF_Services\WCF_ConsoleServer\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Codes\My Codes\Work\wcf_study_demo1\WCF_Services\WCF_ConsoleServer\bin\Debug\WCF_ConsoleServer.exe.config
+D:\Codes\My Codes\Work\wcf_study_demo1\WCF_Services\WCF_ConsoleServer\bin\Debug\WCF_ConsoleServer.exe
+D:\Codes\My Codes\Work\wcf_study_demo1\WCF_Services\WCF_ConsoleServer\bin\Debug\WCF_ConsoleServer.pdb
+D:\Codes\My Codes\Work\wcf_study_demo1\WCF_Services\WCF_ConsoleServer\bin\Debug\WCF_Lib.dll
+D:\Codes\My Codes\Work\wcf_study_demo1\WCF_Services\WCF_ConsoleServer\bin\Debug\WCF_ServerLib.dll
+D:\Codes\My Codes\Work\wcf_study_demo1\WCF_Services\WCF_ConsoleServer\bin\Debug\WCF_Lib.pdb
+D:\Codes\My Codes\Work\wcf_study_demo1\WCF_Services\WCF_ConsoleServer\bin\Debug\WCF_ServerLib.pdb
+D:\Codes\My Codes\Work\wcf_study_demo1\WCF_Services\WCF_ConsoleServer\obj\x86\Debug\WCF_ConsoleServer.exe
+D:\Codes\My Codes\Work\wcf_study_demo1\WCF_Services\WCF_ConsoleServer\obj\x86\Debug\WCF_ConsoleServer.pdb

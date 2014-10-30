@@ -1,0 +1,7 @@
+D:\Codes\My Codes\Work\wcf_study_demo1\WCF_Services\WCF_ServerLib\bin\Debug\WCF_ServerLib.dll
+D:\Codes\My Codes\Work\wcf_study_demo1\WCF_Services\WCF_ServerLib\bin\Debug\WCF_ServerLib.pdb
+D:\Codes\My Codes\Work\wcf_study_demo1\WCF_Services\WCF_ServerLib\bin\Debug\WCF_Lib.dll
+D:\Codes\My Codes\Work\wcf_study_demo1\WCF_Services\WCF_ServerLib\bin\Debug\WCF_Lib.pdb
+D:\Codes\My Codes\Work\wcf_study_demo1\WCF_Services\WCF_ServerLib\obj\Debug\ResolveAssemblyReference.cache
+D:\Codes\My Codes\Work\wcf_study_demo1\WCF_Services\WCF_ServerLib\obj\Debug\WCF_ServerLib.dll
+D:\Codes\My Codes\Work\wcf_study_demo1\WCF_Services\WCF_ServerLib\obj\Debug\WCF_ServerLib.pdb
